@@ -8,7 +8,7 @@ Tela em Java do curso do Professor Guanabara onde identificamos um triângulo co
 | :label: Tecnologias | Java, Swing
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/jonathanimolesi/JavaGuanabara-Triangulos/main/app_triangulo.png#vitrinedev)
 
 ## Detalhes do projeto
 
